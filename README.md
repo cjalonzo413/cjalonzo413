@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m CJ Alonzo<br>👀 I’m interested in basketball, video games, K-dramas, buffets, exercising, and traveling.<br>🌱 I’ve recently got the basics down on Tableau and EDA and ML on Python.<br>💞️ I’m looking to collaborate on any projects that will teach me the skills to make an impact on the data science field.<br>📫 How to reach me: cjalonzo413@gmail.com or www.linkedin.com/in/christopherjalonzo/<br>⚡ Fun fact: Most plates I've eaten at a buffet is 9.
+👋 Hi, I’m CJ Alonzo<br>👀 I’m interested in basketball, video games, K-dramas, buffets, exercising, and traveling.<br>🌱 I’ve recently got the basics down on Tableau and EDA and ML on Python.<br>💞️ I’m looking to collaborate on any projects that will teach me the skills to make an impact on the data science field.<br>📫 How to reach me: christopherjalonzo413@gmail.com or www.linkedin.com/in/christopherjalonzo/<br>⚡ Fun fact: Most plates I've eaten at a buffet is 9.
 
 
 ## 🌐 Socials:
